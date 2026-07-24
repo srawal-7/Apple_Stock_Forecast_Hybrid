@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+wordcloud
+transformers
+torch
+scikit-learn
+xgboost
+tensorflow
+tqdm
